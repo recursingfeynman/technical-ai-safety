@@ -1,4 +1,4 @@
-# Week 01 — Inspect AI basics
+# Week 01 — Evals: currently more art than science
 
 ## Getting Started
 
