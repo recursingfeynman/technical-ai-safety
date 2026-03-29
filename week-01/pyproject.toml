@@ -1,7 +1,7 @@
 [project]
-name = "ai-safety"
+name = "week-01"
 version = "0.1.0"
-description = "AI Safety Course"
+description = "AI Safety Course - Week 01"
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
